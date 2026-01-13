@@ -1,0 +1,17 @@
+.player-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.input-box {
+    max-width: 200px;
+}
+
+button {
+    padding: 4px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    max-width: 100px;
+}
